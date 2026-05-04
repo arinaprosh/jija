@@ -1,2 +1,3 @@
-def calculate():
+def calculate(a,b):
+  return a - b
  pass
